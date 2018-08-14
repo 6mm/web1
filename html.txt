@@ -1,0 +1,28 @@
+web
+
+문법
+<>					tag라고 함
+<br>					줄바꿈
+<p>					문단 구분
+<strong>  </strong>			글씨굵기 굵게
+<u>  </u>				밑줄
+<img src="" width="% or number">	"" 안의 주소에 들어가는 사진을 출력, width에는 너비
+
+
+<parent>
+    <chid></child>
+<parent>
+
+<ul>  or <ol>				unordered list, ordered list
+	<li>				목차
+</ul> or </ol>
+
+<table>					표 만들기
+<title>					제목 만들기
+<meta charset="utf-8">			문자 설정을 utf-8로 출력
+<head>					본문을 설명해주는 태그가 들어감
+<body>					본문
+<!doctype html>				가장 첫문장. html을 이용했다는걸 표현
+<html>					가장 바깥쪽 태그
+<a Href="사이트" 
+target="_blanc" title="설명">		하이퍼링크
